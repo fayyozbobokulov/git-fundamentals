@@ -18,5 +18,7 @@ git add -p <filename>
 ````
 
 
+Now it is working to add some data to manage
+
 
 
